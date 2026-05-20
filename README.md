@@ -432,11 +432,7 @@ curl -H "Authorization: Bearer YOUR_CRON_SECRET" \
 
 ---
 
-## 📝 License
 
-MIT License - See LICENSE file for details
-
----
 
 ## 🤝 Contributing
 
