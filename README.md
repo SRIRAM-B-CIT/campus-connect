@@ -1,5 +1,6 @@
 # 🚀 INNOVEX - Campus Innovation OS
-
+## Live Link
+- https://campus-connect-murex-eight.vercel.app
 **An AI-powered innovation accelerator for universities**
 
 INNOVEX is a comprehensive campus innovation platform that connects students, mentors, and investors through AI-driven matchmaking, gamification, and ecosystem intelligence.
